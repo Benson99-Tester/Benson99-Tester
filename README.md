@@ -2,7 +2,7 @@
 - 👀 I’m interested in QA Testing
 - 🌱 I’m currently learning QA Engineering
 - 💞️ I’m looking to collaborate on QA Testing/Engineering
-- 📫 How to reach me bensonxavier981@gmail.com
+- 📫 How to reach me bensonxavier871@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: ...
 
